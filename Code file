@@ -1,5 +1,12 @@
 # Get input for car make and model
-car_make = input("Enter the car make: ")
+while True:
+    car_make = input("Enter the car make: ")
+    
+    if car_make.lower() in ['toyota', 'honda']:
+        break 
+    else:
+        print("Invalid input. Please enter either 'Toyota' or 'Honda'.")
+
 car_model = input("Enter the car model: ")
 car_Year = input("Enter what year is the car: ")
 car_Mileage = input ("Enter the current milage for the car: ")
@@ -11,3 +18,4 @@ print("Car Make:", car_make)
 print("Car Model:", car_model)
 print("Car Year:", car_Year)
 print("Car Mileage", car_Mileage)
+

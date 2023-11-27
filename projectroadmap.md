@@ -4,5 +4,8 @@
 - [x] Create a README.md file in and write a description and usage of my code
 - [x] Find a repository that can help create my software
 - [x] Create a projectroadmap.md file and fill it out
-- [ ] Start working on the Sprint 2
+- [x] Start working on the Sprint 2
 - [x] Found a repository that works with searching an indivual car make and model and new MSRP price
+- [ ] Figure out if I can do more then one car brand
+- [ ] Figure out if I want to do anything older then 25 years or just do current year MSRP
+- [ ] Work on an effiecient code compared to the one I found on github
